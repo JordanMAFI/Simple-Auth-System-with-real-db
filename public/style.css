@@ -1,0 +1,28 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    background-color: aquamarine;
+    
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bolder;
+    color:black;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-style: oblique;
+    color:coral;
+}
+input {
+    padding: 10px;
+    margin: 5px
+}
+button {
+    color:darkcyan;
+    padding: 10px;
+}
